@@ -1,0 +1,9 @@
+.Rapp.history
+.Rproj.user
+.Renviron
+.Rhistory
+.RData
+*.rda
+data/
+.DS_Store
+
